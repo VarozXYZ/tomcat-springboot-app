@@ -1,10 +1,6 @@
 # Entrega - Actividad 1
 
-## 1) Repositorio de la aplicación con Spring Boot
-
-- URL del repositorio: **[PEGAR_URL_REPO](https://github.com/varozXYZ/tomcat-springboot-app)**
-
-## 2) Pasos para construir y subir la imagen de Docker
+## 1) Pasos para construir y subir la imagen de Docker
 
 1. Construyo el proyecto:
 
@@ -39,11 +35,11 @@
 ![Docker build](capturas/docker-build.png)
 ![Docker push](capturas/docker-push.png)
 
-## 3) Enlace de la imagen en Docker Hub
+## 2) Enlace de la imagen en Docker Hub
 
 - URL de la imagen: **[Docker Hub](https://hub.docker.com/r/varoxyz/tomcat-springboot-app)**
 
-## 4) Pasos para desplegar la aplicación en Render
+## 3) Pasos para desplegar la aplicación en Render
 
 1. Creo un `Web Service` en Render.
 2. Selecciono despliegue desde imagen existente en registry.
@@ -57,7 +53,7 @@
 ![Render logs](capturas/render-logs.png)
 ![App en Render](capturas/render-app.png)
 
-## 5) Pasos para configurar el dominio personalizado
+## 4) Pasos para configurar el dominio personalizado
 
 1. En Render entro en `Settings > Custom Domains`.
 2. Añado el dominio: **[www.didactio.one](https://didactio.one/)**.
@@ -68,7 +64,7 @@
 ![DNS provider](capturas/domain-register-1.png)
 ![DNS provider](capturas/domain-register-2.png)
 
-## 6) Enlace final de la aplicación
+## 5) Enlace final de la aplicación
 
 - URL de la aplicación desplegada en Render: **[URL Render](https://tomcat-springboot-app-1-0-0.onrender.com/)**
 - URL con dominio personalizado: **[URL Dominio](http://didactio.one)**
