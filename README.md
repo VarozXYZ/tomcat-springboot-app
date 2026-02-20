@@ -70,6 +70,6 @@
 
 ## 6) Enlace final de la aplicación
 
-- URL de la aplicación desplegada en Render: **[URL Render](https://tomcat-springboot-app-1-0-0.onrender.com/)]**
+- URL de la aplicación desplegada en Render: **[URL Render](https://tomcat-springboot-app-1-0-0.onrender.com/)**
 - URL con dominio personalizado: **[URL Dominio](http://didactio.one)**
 
